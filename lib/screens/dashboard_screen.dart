@@ -18,7 +18,7 @@ class DashboardScreen extends StatelessWidget {
           children: [
             // Welcome Message
             Text(
-              "Welcome William",
+              "Welcome Nur Ardina",
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
